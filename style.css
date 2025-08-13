@@ -1,0 +1,16 @@
+header{
+    background-color: blue;
+    text-align: center;
+    color: black;
+}
+
+body{
+    background-color: white;
+
+}
+
+.card {
+    display: block;
+    padding-top: 3%;
+    padding-bottom: 2.5rem;
+}
